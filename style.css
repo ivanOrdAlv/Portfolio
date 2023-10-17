@@ -1,0 +1,327 @@
+header, h3{
+    display:flex;
+    text-align:center;
+    font-family: 'Croissant One', cursive;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+    justify-content:center;
+    color:white;
+}
+
+div.portfolio{
+    
+    font-family: 'Croissant One', cursive;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+    justify-content:center;
+   
+}
+
+body{
+    background-color:#000000;
+    justify-content:center;
+}
+
+#datosPer{
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+    background-image:url("imagenes/campo.jpg");
+    
+    justify-content:center;
+}
+
+#datosPer, ul,li,h4{
+    
+    font-family: 'Croissant One', cursive;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+    
+    display:top;
+    justify-content:center;
+    list-style:none;
+    margin:0;
+    padding:0px;
+    padding-bottom:0px;
+    padding-top:0px;
+    color:black;
+    font-weight: bold;
+    background-color:#9FABB0 ;
+    border-radius:10px;
+    opacity:0.8555;
+    
+}
+
+
+
+#datosPer, ul,li,h4:hover {
+   
+    font-family: 'Croissant One', cursive;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+    
+    opacity:1;
+    justify-content:center;
+    opacity:0.9555;
+   
+}
+
+#biografia h4{
+    font-size:33px;
+    display:flex;
+    justify-content:center;
+}
+
+#biografia p{
+    display:flex;
+    justify-content:center;
+}
+
+.yo{
+    border-radius:5px;
+    display:flex;
+    justify-content:center;
+    padding-left:675px;
+}
+
+.millonarios{
+    display:flex;
+    padding-left:520px;
+    justify-content:center;
+    border-radius:5px;
+}
+
+.millonarios:hover{
+    display:flex;
+    justify-content:center;
+    transform: scale(1.1);
+}
+
+.calendario{
+    display:flex;
+    padding-left:500px;
+    justify-content:center;
+    border-radius:5px;
+}
+
+.calendario:hover{
+    display:flex;
+    justify-content:center;
+    transform: scale(1.1);
+}
+
+.tarjeta{
+    display:flex;
+    padding-left:630px;
+    justify-content:center;
+    border-radius:5px;
+}
+
+.tarjeta:hover{
+    display:flex;
+    justify-content:center;
+    transform: scale(1.1);
+}
+
+.registro{
+    display:flex;
+    padding-left:630px;
+    justify-content:center;
+    border-radius:5px;
+}
+
+.registro:hover{
+    display:flex;
+    justify-content:center;
+    transform: scale(1.1);
+}
+
+.contador{
+display:flex;
+padding-left:500px;
+justify-content:center;
+border-radius:5px;
+}
+
+.contador:hover{
+    display:flex;
+    justify-content:center;
+    transform: scale(1.1);
+}
+
+.mouse{
+    display:flex;
+    padding-left:500px;
+    justify-content:center;
+    border-radius:5px;
+}
+
+.mouse:hover{
+    display:flex;
+    justify-content:center;
+    transform: scale(1.1);
+}
+
+.window{
+    display:flex;
+    padding-left:500px;
+    justify-content:center;
+    border-radius:5px;
+}
+
+.window:hover{
+    display:flex;
+    justify-content:center;
+    transform: scale(1.1);
+}
+
+#proyectitos h4{
+    display:flex;
+    text-align:center;
+    justify-content:center;
+    font-size:33px;
+}
+
+#proyectitos p{
+    display:flex;
+    text-align:center;
+    justify-content:center;
+}
+
+#contactar{
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+    background-image: url("imagenes/matrix.jpg");
+    pading-left:10px;
+    border-radius:10px;
+    display:flex;
+    justify-content:center;
+}
+
+#contactar,ul,li,p{
+    color:white;
+    font-family: 'Croissant One', cursive;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+#contactar,ul,li,h4{
+  color:black;
+  font-family: 'Croissant One', cursive;
+  font-family: 'Kanit', sans-serif;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+#contactar,ul,li,h4:hover {
+   color:white;
+   font-family: 'Croissant One', cursive;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+#contactar,ul,li,p:hover {
+    color:white;
+    font-family: 'Croissant One', cursive;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+#contactos h4{
+    font-size:33px;
+    display:flex;
+    justify-content:center;
+}
+
+#github{
+    padding-top:10px;
+    display:flex;
+    justify-content:center;
+}
+
+#nombressito{
+    display:flex;
+    justify-content:center;
+    padding-right:55px;
+}
+
+#correo{
+    display:flex;
+    justify-content:center;
+    padding-right:125px;
+}
+
+.m{
+    display:flex;
+    justify-content:center;
+  
+}
+
+.men{
+    display:flex;
+    justify-content:center;
+    padding-left:1346px;  
+}
+
+/* CSS */
+.button-29 {
+    align-items: center;
+    appearance: none;
+    background-image: radial-gradient(100% 100% at 100% 0, #5adaff 0, #5468ff 100%);
+    border: 0;
+    border-radius: 6px;
+    box-shadow: rgba(45, 35, 66, .4) 0 2px 4px,rgba(45, 35, 66, .3) 0 7px 13px -3px,rgba(58, 65, 111, .5) 0 -3px 0 inset;
+    box-sizing: border-box;
+    color: #fff;
+    cursor: pointer;
+    display: inline-flex;
+    font-family: "JetBrains Mono",monospace;
+    height: 48px;
+    justify-content: center;
+    line-height: 1;
+    list-style: none;
+    overflow: hidden;
+    padding-left: 16px;
+    padding-right: 16px;
+    position: relative;
+    text-align: left;
+    text-decoration: none;
+    transition: box-shadow .15s,transform .15s;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    white-space: nowrap;
+    will-change: box-shadow,transform;
+    font-size: 18px;
+    padding-left:1436px;
+  }
+  
+  .button-29:focus {
+    box-shadow: #3c4fe0 0 0 0 1.5px inset, rgba(45, 35, 66, .4) 0 2px 4px, rgba(45, 35, 66, .3) 0 7px 13px -3px, #3c4fe0 0 -3px 0 inset;
+  }
+  
+  .button-29:hover {
+    box-shadow: rgba(45, 35, 66, .4) 0 4px 8px, rgba(45, 35, 66, .3) 0 7px 13px -3px, #3c4fe0 0 -3px 0 inset;
+    transform: translateY(-2px);
+  }
+  
+  .button-29:active {
+    box-shadow: #3c4fe0 0 3px 7px inset;
+    transform: translateY(2px);
+  }
+
+
+.footer{
+    display:flex;
+    justify-content:center;
+    background-color:#000000;
+    
+}
+
+#elfooter{
+    display:flex;
+    justify-content:center;
+
+}
+
+#nombrecito{
+    display:flex;
+    justify-content:right;
+}
+
