@@ -108,22 +108,10 @@ body{
     transform: scale(1.1);
 }
 
-.tarjeta{
-    display:flex;
-    padding-left:630px;
-    justify-content:center;
-    border-radius:5px;
-}
-
-.tarjeta:hover{
-    display:flex;
-    justify-content:center;
-    transform: scale(1.1);
-}
 
 .registro{
     display:flex;
-    padding-left:630px;
+    padding-left:500px;
     justify-content:center;
     border-radius:5px;
 }
@@ -147,27 +135,67 @@ border-radius:5px;
     transform: scale(1.1);
 }
 
-.mouse{
+
+.codificacion{
     display:flex;
     padding-left:500px;
     justify-content:center;
     border-radius:5px;
 }
 
-.mouse:hover{
+.codificacion:hover{
     display:flex;
     justify-content:center;
     transform: scale(1.1);
 }
 
-.window{
+.musica{
     display:flex;
     padding-left:500px;
     justify-content:center;
     border-radius:5px;
 }
 
-.window:hover{
+.musica:hover{
+    display:flex;
+    justify-content:center;
+    transform: scale(1.1);
+}
+
+.pong{
+    display:flex;
+    padding-left:500px;
+    justify-content:center;
+    border-radius:5px;
+}
+
+.pong:hover{
+    display:flex;
+    justify-content:center;
+    transform: scale(1.1);
+}
+
+.notes{
+    display:flex;
+    padding-left:300px;
+    justify-content:center;
+    border-radius:5px;
+}
+
+.notes:hover{
+    display:flex;
+    justify-content:center;
+    transform: scale(1.1);
+}
+
+.api{
+    display:flex;
+    padding-left:500px;
+    justify-content:center;
+    border-radius:5px;
+}
+
+.api:hover{
     display:flex;
     justify-content:center;
     transform: scale(1.1);
